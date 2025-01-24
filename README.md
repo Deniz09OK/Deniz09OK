@@ -9,41 +9,64 @@
 - 📫 Comment me contacter : deniz.ok@epitech.eu
 - ⚡ Fun fact : Je suis passionné par la culture japonaise, les jeux vidéo et les sports comme le basketball et le football.
 
+---
 
 ## 🛠️ Compétences techniques
-### Langages de programmation
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
+
+### **Langages de programmation**
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) 
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
 
-### Développement web
+### **Développement Web**
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
+![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
-### Outils et technologies
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+### **Bases de données**
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+
+### **Outils et environnements**
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
+![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
 ![OpenBSD](https://img.shields.io/badge/-OpenBSD-05122A?style=flat&logo=openbsd)
+![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=freebsd)
+![Mageia](https://img.shields.io/badge/-Mageia-05122A?style=flat&logo=mageia)
 
-## 🌟 Soft Skills
-- Travail en équipe.
-- Curiosité et apprentissage continu.
-- Organisation et gestion des priorités.
-- Bonne communication.
+### **Réseau et virtualisation**
+![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-05122A?style=flat&logo=cisco)
+![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&logo=putty)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox)
 
-## 🛡️ Administration réseau
-- Configuration de VLAN, LAN et sous-réseaux.
-- Gestion des routeurs et commutateurs.
-- Virtualisation avec Debian, FreeBSD et OpenBSD.
+### **Outils de développement**
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
 
+### **Autres technologies**
+![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
+![Processing](https://img.shields.io/badge/-Processing-05122A?style=flat)
+
+---
 
 ## 📈 Statistiques GitHub
 ![Statistiques de Deniz09OK](https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=radical)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=radical)
 
+---
 
 ## 🚀 Projets phares
 - **[Portfolio Deniz](https://github.com/Deniz09OK/Portfolio-deniz)**  
@@ -58,11 +81,10 @@
 - **[Projet-Jeu-Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
   Création d’un jeu en 2D avec Java, mettant en avant la programmation orientée objet et les concepts graphiques.
 
+---
 
 ## 🔗 Me retrouver
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ok)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github)](https://portfolio-deniz.netlify.app/)
 
-
-
-🎉 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour discuter ou collaborer. 🚀
+🎉 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour discuter ou collaborer. 🚀
