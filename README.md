@@ -70,17 +70,18 @@
 
 ## 🚀 Projets phares
 
-### 1. Portfolio Deniz
-![Portfolio Deniz](https://github-readme-stats.vercel.app/api/pin/?username=Deniz09OK&repo=Portfolio-deniz&theme=dark)
+- **[Portfolio Deniz](https://github.com/Deniz09OK/Portfolio-deniz)**  
+  Mon portfolio personnel, conçu pour présenter mes compétences, mes projets et mon parcours dans un format moderne et réactif.
 
-### 2. CultureQuiz
-![CultureQuiz](https://github-readme-stats.vercel.app/api/pin/?username=Deniz09OK&repo=CultureQuiz&theme=dark)
+- **[CultureQuiz](https://github.com/Deniz09OK/CultureQuiz)**  
+  Une application interactive de quiz pour tester ses connaissances sur divers sujets.
 
-### 3. AI-Morpion
-![AI-Morpion](https://github-readme-stats.vercel.app/api/pin/?username=Deniz09OK&repo=AI-Morpion&theme=dark)
+- **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)**  
+  Développement d'un jeu de Morpion avec une intelligence artificielle intégrée.
 
-### 4. Projet-Jeu-Java
-![Projet-Jeu-Java](https://github-readme-stats.vercel.app/api/pin/?username=Deniz09OK&repo=Projet-Jeu-Java&theme=dark)
+- **[Projet-Jeu-Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
+  Création d’un jeu en 2D avec Java, mettant en avant la programmation orientée objet et les concepts graphiques.
+
 
 ---
 
