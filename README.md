@@ -66,8 +66,6 @@
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=radical)
 
-![Graphique des contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Deniz09OK&theme=radical)
-
 ---
 
 ## 🚀 Projets phares
