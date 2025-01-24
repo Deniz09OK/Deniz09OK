@@ -62,7 +62,7 @@
 ---
 
 ## 📈 Statistiques GitHub
-![Statistiques de Deniz](https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=radical)
+![Statistiques de Deniz OK](https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=dark)
 
 ![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=radical)
 
