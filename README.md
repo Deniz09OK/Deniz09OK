@@ -11,13 +11,32 @@
 
 
 ## 🛠️ Compétences techniques
+### Langages de programmation
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+
+### Développement web
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
+
+### Outils et technologies
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-05122A?style=flat&logo=openbsd)
+
+## 🌟 Soft Skills
+- Travail en équipe.
+- Curiosité et apprentissage continu.
+- Organisation et gestion des priorités.
+- Bonne communication.
+
+## 🛡️ Administration réseau
+- Configuration de VLAN, LAN et sous-réseaux.
+- Gestion des routeurs et commutateurs.
+- Virtualisation avec Debian, FreeBSD et OpenBSD.
 
 
 ## 📈 Statistiques GitHub
