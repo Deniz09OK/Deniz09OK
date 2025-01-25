@@ -11,6 +11,11 @@
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deniz09OK&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🛠️ Compétences techniques
 
 ### **Langages de programmation**
@@ -79,7 +84,7 @@
 - **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)**  
   Développement d'un jeu de Morpion avec une intelligence artificielle intégrée.
 
-- **[Projet-Jeu-Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
+- **[Jeu Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
   Création d’un jeu en 2D avec Java, mettant en avant la programmation orientée objet et les concepts graphiques.
 
 
