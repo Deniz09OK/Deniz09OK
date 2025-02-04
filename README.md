@@ -75,6 +75,9 @@
 
 ## 🚀 Projets phares
 
+- **[Popeye](https://github.com/Deniz09OK/Popeye)**
+  Une application Web où les utilisateurs peuvent voter et voir les résultats en temps réel. L'application est conteneurisée avec Docker
+
 - **[Portfolio Deniz](https://github.com/Deniz09OK/Portfolio-deniz)**  
   Mon portfolio personnel, conçu pour présenter mes compétences, mes projets et mon parcours dans un format moderne et réactif.
 
@@ -86,11 +89,7 @@
 
 - **[Jeu Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
   Création d’un jeu en 2D avec Java, mettant en avant la programmation orientée objet et les concepts graphiques.
-
-- **[Popeye](https://github.com/Deniz09OK/Popeye)**
-  Une application Web où les utilisateurs peuvent voter et voir les résultats en temps réel. L'application est conteneurisée avec Docker
-
-
+  
 ---
 
 ## 🔗 Me retrouver
