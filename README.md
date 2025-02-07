@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 Étudiant à Epitech et passionné par les technologies, je suis en quête constante de nouvelles connaissances et de défis à relever. Actuellement, je recherche une alternance en développement informatique à partir de janvier 2025 pour une durée de 30 mois.
 
-- 🔭 Je travaille actuellement sur : [Mon Portfolio](https://portfolio-deniz.netlify.app/)
+- 🔭 Je travaille actuellement sur : [Mon Portfolio](https://portfolio-deniz.netlify.app/](https://portfolio-ok.com/)
 - 🌱 J'apprends actuellement : Développement logiciel, programmation avancée, et gestion de projets.
 - 💬 Posez-moi des questions sur : Développement web, programmation en Python, Java et JavaScript.
 - 📫 Comment me contacter : deniz.ok@epitech.eu
