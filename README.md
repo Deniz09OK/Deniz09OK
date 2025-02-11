@@ -19,50 +19,25 @@
 ## 🛠️ Compétences techniques
 
 ### **Langages de programmation**
-![C](https://go-skill-icons.vercel.app/api/icons?i=c)
-![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp) 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+![Langages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,java,js,ts,php)
 
 ### **Développement Web**
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
+![Développement Web](https://go-skill-icons.vercel.app/api/icons?i=html,css,react,nodejs,express,symfony,bootstrap,tailwind)
 
 ### **Bases de données**
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,sqlite)
 
 ### **Outils et environnements**
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-05122A?style=flat&logo=openbsd)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=freebsd)
-![Mageia](https://img.shields.io/badge/-Mageia-05122A?style=flat&logo=mageia)
+![Outils et environnements](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,debian,openbsd,freebsd,mageia)
 
 ### **Réseau et virtualisation**
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-05122A?style=flat&logo=cisco)
-![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&logo=putty)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox)
+![Réseau et virtualisation](https://go-skill-icons.vercel.app/api/icons?i=cisco,putty,virtualbox)
 
 ### **Outils de développement**
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
+![Outils de développement](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,intellij)
 
 ### **Autres technologies**
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Processing](https://img.shields.io/badge/-Processing-05122A?style=flat)
+![Autres technologies](https://go-skill-icons.vercel.app/api/icons?i=arduino)
 
 ---
 
