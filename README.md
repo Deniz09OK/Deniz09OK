@@ -1,7 +1,7 @@
 # 👋 Salut, je suis Deniz !
 
 ## 🌟 À propos de moi
-Étudiant à Epitech et passionné par les technologies, je suis en quête constante de nouvelles connaissances et de défis à relever. Actuellement, je recherche une alternance en développement informatique à partir de janvier 2025 pour une durée de 30 mois.
+Étudiant à Epitech en alternance chez Qualitest en tant que Développeur Full Stack depuis février 2025. Passionné par les technologies, je développe mes compétences en développement logiciel, programmation et gestion de projets dans un environnement innovant et dynamique.
 
 - 🔭 Je travaille actuellement sur : [Mon Portfolio](https://portfolio-ok.com/)
 - 🌱 J'apprends actuellement : Développement logiciel, programmation avancée, et gestion de projets.
