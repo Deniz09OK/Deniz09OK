@@ -19,8 +19,8 @@
 ## 🛠️ Compétences techniques
 
 ### **Langages de programmation**
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c) 
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus) 
+![C](https://go-skill-icons.vercel.app/api/icons?i=c)
+![C++](https://go-skill-icons.vercel.app/api/icons?i=cpp) 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
