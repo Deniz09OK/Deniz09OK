@@ -31,13 +31,15 @@
 ![Outils et environnements](https://go-skill-icons.vercel.app/api/icons?i=linux,windows,debian,openbsd,freebsd,mageia)
 
 ### **Réseau et virtualisation**
-![Réseau et virtualisation](https://go-skill-icons.vercel.app/api/icons?i=cisco,putty,virtualbox)
+![Cisco](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-05122A?style=flat&logo=cisco)
+![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&logo=putty)
+![VirtualBox](https://go-skill-icons.vercel.app/api/icons?i=virtualbox)
 
 ### **Outils de développement**
 ![Outils de développement](https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,intellij)
 
 ### **Autres technologies**
-![Autres technologies](https://go-skill-icons.vercel.app/api/icons?i=arduino)
+![Arduino](https://go-skill-icons.vercel.app/api/icons?i=arduino)
 
 ---
 
