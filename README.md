@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 Étudiant à Epitech en alternance chez Qualitest en tant que Développeur Full Stack depuis février 2025. Passionné par les technologies, je développe mes compétences en développement logiciel, programmation et gestion de projets dans un environnement innovant et dynamique.
 
-- 🔭 Je travaille actuellement sur : [Mon Portfolio](https://portfolio-ok.com/)
+- 🔭 Je travaille actuellement sur : [ Popeye ](https://github.com/Deniz09OK/Popeye)
 - 🌱 J'apprends actuellement : Développement logiciel, programmation avancée, et gestion de projets.
 - 💬 Posez-moi des questions sur : Développement web, programmation en Python, Java et JavaScript.
 - 📫 Comment me contacter : deniz.ok@epitech.eu
