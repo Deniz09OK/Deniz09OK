@@ -91,6 +91,6 @@
 
 ## 🔗 Me retrouver
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ok)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github)](https://portfolio-ok.com/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github)](https://portfolio-ok.com/)
 
 🎉 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour discuter ou collaborer. 🚀
