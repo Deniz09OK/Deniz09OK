@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Deniz !
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Salut, je suis Deniz !
 
 ## 🌟 À propos de moi
 Étudiant à Epitech en alternance chez Qualitest en tant que Assistant informatique depuis février 2025. Passionné par les technologies, par la cybersecurité je développe mes compétences en développement logiciel, programmation et gestion de projets dans un environnement innovant et dynamique.
