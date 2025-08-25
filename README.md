@@ -9,11 +9,12 @@
 - 📫 Comment me contacter : deniz.ok@epitech.eu
 - ⚡ Fun fact : Je suis passionné par la culture japonaise, les jeux vidéo et les sports comme le basketball et le football.
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deniz09OK&theme=radical&row=1&column=3&title=Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deniz09OK&theme=radical&row=1&column=3&title=Commits,Followers,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
----
 
 ### **Langages de programmation**
 ![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)
