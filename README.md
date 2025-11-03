@@ -67,6 +67,9 @@
 
 ## 🚀 Projets phares
 
+- **[CareSync](https://github.com/Deniz09OK/CareSync)**
+  CareSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient
+  
 - **[Popeye](https://github.com/Deniz09OK/Popeye)**
   Une application Web où les utilisateurs peuvent voter et voir les résultats en temps réel. L'application est conteneurisée avec Docker
 
