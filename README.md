@@ -3,7 +3,7 @@
 ## 🌟 À propos de moi
 Étudiant à Epitech en alternance chez Qualitest en tant que Assistant informatique depuis février 2025. Passionné par les technologies, par la cybersecurité je développe mes compétences en développement logiciel, programmation et gestion de projets dans un environnement innovant et dynamique.
 
-- 🔭 Je travaille actuellement sur : [CareSync](https://github.com/Deniz09OK/CareSync)
+- 🔭 Je travaille actuellement sur : [MediSync](https://github.com/Deniz09OK/MediSync)
 - 🌱 J'apprends actuellement : Développement logiciel, programmation avancée, et gestion de projets.
 - 💬 Posez-moi des questions sur : Développement web, programmation en Python, Java et JavaScript.
 - 📫 Comment me contacter : deniz.ok@epitech.eu
@@ -67,8 +67,8 @@
 
 ## 🚀 Projets phares
 
-- **[CareSync](https://github.com/Deniz09OK/CareSync)**     
-  CareSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient
+- **[MediSync](https://github.com/Deniz09OK/MediSync)**     
+  MediSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient
   
 - **[Popeye](https://github.com/Deniz09OK/Popeye)**   
   Une application Web où les utilisateurs peuvent voter et voir les résultats en temps réel. L'application est conteneurisée avec Docker
