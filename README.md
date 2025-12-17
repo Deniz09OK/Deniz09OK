@@ -1,94 +1,91 @@
-# Salut, je suis Deniz ! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Salut, moi c'est Deniz ! 👋
 
-## 🌟 À propos de moi
-Étudiant à Epitech en alternance chez Qualitest en tant que Assistant informatique depuis février 2025. Passionné par les technologies, par la cybersecurité je développe mes compétences en développement logiciel, programmation et gestion de projets dans un environnement innovant et dynamique.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px"/>
+</div>
 
-- 🔭 Je travaille actuellement sur : [MediSync](https://github.com/Deniz09OK/MediSync)
-- 🌱 J'apprends actuellement : Développement logiciel, programmation avancée, et gestion de projets.
-- 💬 Posez-moi des questions sur : Développement web, programmation en Python, Java et JavaScript.
-- 📫 Comment me contacter : deniz.ok@epitech.eu
-- ⚡ Fun fact : Je suis passionné par la culture japonaise, les jeux vidéo et les sports comme le basketball et le football.
+### 👨‍💻 À propos de moi
 
----
+🎓 **Étudiant à Epitech Nancy** | 🛡️ Passionné de **Cybersécurité** & **Dev Web**
 
-### **Langages de programmation**
-![C](https://img.shields.io/badge/-c-05122A?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-c++-05122A?style=flat&logo=c++)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)
+Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
-### **Développement Web**
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express)
-![Symfony](https://img.shields.io/badge/-Symfony-05122A?style=flat&logo=symfony)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
-
-### **Bases de données**
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)
-
-### **Outils et environnements**
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-05122A?style=flat&logo=windows)
-![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian)
-![OpenBSD](https://img.shields.io/badge/-OpenBSD-05122A?style=flat&logo=openbsd)
-![FreeBSD](https://img.shields.io/badge/-FreeBSD-05122A?style=flat&logo=freebsd)
-![Mageia](https://img.shields.io/badge/-Mageia-05122A?style=flat&logo=mageia)
-
-### **Réseau et virtualisation**
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-05122A?style=flat&logo=cisco)
-![Putty](https://img.shields.io/badge/-Putty-05122A?style=flat&logo=putty)
-![VirtualBox](https://img.shields.io/badge/-VirtualBox-05122A?style=flat&logo=virtualbox)
-
-### **Outils de développement**
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=flat&logo=visual-studio)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea)
-
-### **Autres technologies**
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-![Processing](https://img.shields.io/badge/-Processing-05122A?style=flat)
----
-
-## 📈 Statistiques GitHub
-![Statistiques de Deniz OK](https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=dark)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=radical)
+- 🔭 Je travaille sur : **[MediSync](https://github.com/Deniz09OK/MediSync)**
+- 🌱 J'apprends : L'architecture logicielle avancée & le Pentesting.
+- ⚡ **Portfolio :** Découvre mon univers interactif sur **[portfolio-ok.com](http://portfolio-ok.com/)**
 
 ---
 
-## 🚀 Projets phares
+### 📈 Mes Statistiques
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Deniz Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 
-- **[MediSync](https://github.com/Deniz09OK/MediSync)**     
-  MediSync est une plateforme de santé connectée qui relie l'observance médicamenteuse au vécu réel du patient
-  
-- **[Popeye](https://github.com/Deniz09OK/Popeye)**   
-  Une application Web où les utilisateurs peuvent voter et voir les résultats en temps réel. L'application est conteneurisée avec Docker
-
-- **[Portfolio](https://github.com/Deniz09OK/Portfolio)**  
-  Mon portfolio personnel, conçu pour présenter mes compétences, mes projets et mon parcours dans un format moderne et réactif.
-
-- **[CultureQuiz](https://github.com/Deniz09OK/CultureQuiz)**  
-  Une application interactive de quiz pour tester ses connaissances sur divers sujets.
-
-- **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)**  
-  Développement d'un jeu de Morpion avec une intelligence artificielle intégrée.
-
-- **[Jeu Java](https://github.com/Deniz09OK/Projet-Jeu-Java)**  
-  Création d’un jeu en 2D avec Java, mettant en avant la programmation orientée objet et les concepts graphiques.
-  
 ---
 
-## 🔗 Me retrouver
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/deniz-ok)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=github)](https://portfolio-ok.com/)
+<div align="center">
 
-🎉 Merci de visiter mon profil ! N'hésitez pas à explorer mes projets ou à me contacter pour discuter ou collaborer. 🚀
+### 🛠 Tech Stack
+
+**Langages**
+<br>
+<img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white">
+<img src="https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=white">
+
+**Web & Frameworks**
+<br>
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react&logoColor=white">
+<img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/-Symfony-05122A?style=for-the-badge&logo=symfony&logoColor=white">
+<img src="https://img.shields.io/badge/-Tailwind_CSS-05122A?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/-HTML5-05122A?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-05122A?style=for-the-badge&logo=css3&logoColor=white">
+
+**Data & Outils**
+<br>
+<img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white">
+
+</div>
+
+---
+
+### 🚀 Projets Phares
+
+| Projet | Description | Stack |
+| :--- | :--- | :--- |
+| 🏥 **[MediSync](https://github.com/Deniz09OK/MediSync)** | Plateforme de santé connectée liant observance et vécu patient. | `Web` `HealthTech` |
+| 🗳️ **[Popeye](https://github.com/Deniz09OK/Popeye)** | App de vote en temps réel conteneurisée. | `Docker` `Web` |
+| 💻 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Mon site personnel au format moderne et réactif. | `React` `CSS` |
+| 🧠 **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)** | Jeu de Morpion intégrant une intelligence artificielle. | `AI` `Algo` |
+| 🎮 **[Jeu Java](https://github.com/Deniz09OK/Projet-Jeu-Java)** | Jeu 2D mettant en avant la POO et le graphisme. | `Java` `2D` |
+
+---
+
+### 📬 Me Contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deniz-ok">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:deniz.ok@epitech.eu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.instagram.com/deniz_09_ok/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="http://portfolio-ok.com/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>"I love seeing how things work under the hood to better protect them."</i>
+</p>
