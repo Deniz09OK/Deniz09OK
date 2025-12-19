@@ -59,7 +59,7 @@ Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 | :--- | :--- | :--- |
 | 🏥 **[MediSync](https://github.com/Deniz09OK/MediSync)** | Plateforme de santé connectée liant observance et vécu patient. | `Web` `HealthTech` |
 | 🗳️ **[Popeye](https://github.com/Deniz09OK/Popeye)** | App de vote en temps réel conteneurisée. | `Docker` `Web` |
-| 💻 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Mon site personnel au format moderne et réactif. | `React` `CSS` |
+| 💻 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Mon site personnel au format moderne et réactif. | `Vue` `CSS` |
 | 🧠 **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)** | Jeu de Morpion intégrant une intelligence artificielle. | `AI` `Algo` |
 | 🎮 **[Jeu Java](https://github.com/Deniz09OK/Projet-Jeu-Java)** | Jeu 2D mettant en avant la POO et le graphisme. | `Java` `2D` |
 
