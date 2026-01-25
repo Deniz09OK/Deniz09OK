@@ -8,7 +8,7 @@ Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
 - 🔭 Je travaille sur : **[MediSync](https://github.com/Deniz09OK/MediSync)**
 - 🌱 J'apprends : L'architecture logicielle avancée & le Pentesting.
-- ⚡ **Portfolio :** Découvre mon univers interactif sur **[portfolio-ok.com](http://portfolio-ok.com/)**
+- ⚡ **Portfolio :** Découvre mon univers interactif sur **[https://portfolio-deniz.netlify.app/Portfolio/](http://https://portfolio-deniz.netlify.app/Portfolio//)**
 
 ---
 
@@ -74,7 +74,7 @@ Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
   <a href="mailto:deniz.ok@epitech.eu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="http://portfolio-ok.com/">
+  <a href="http://https://portfolio-deniz.netlify.app/Portfolio//">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Website"/>
   </a>
 </p>
