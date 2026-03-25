@@ -57,6 +57,7 @@ Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
+| 💻 **[Linux-System-Inventory-Tool](https://github.com/Deniz09OK/Linux-System-Inventory-Tool)** | outil d'inventaire et de cartographie d'infrastructure système. | `Devops` `VM` |
 | 🏥 **[MediSync](https://github.com/Deniz09OK/MediSync)** | Plateforme de santé connectée liant observance et vécu patient. | `Web` `HealthTech` |
 | 🗳️ **[Popeye](https://github.com/Deniz09OK/Popeye)** | App de vote en temps réel conteneurisée. | `Docker` `Web` |
 | 💻 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Mon site personnel au format moderne et réactif. | `Vue` `CSS` |
