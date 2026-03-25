@@ -6,7 +6,7 @@
 
 Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
-- 🔭 Je travaille sur : **[MediSync](https://github.com/Deniz09OK/MediSync)**
+- 🔭 Je travaille sur : **[Linux-System-Inventory-Tool](https://github.com/Deniz09OK/Linux-System-Inventory-Tool)**
 - 🌱 J'apprends : L'architecture logicielle avancée & le Pentesting.
 - ⚡ **Portfolio :** Découvre mon univers interactif sur **[https://portfolio-deniz.netlify.app/Portfolio/](http://https://portfolio-deniz.netlify.app/Portfolio//)**
 
