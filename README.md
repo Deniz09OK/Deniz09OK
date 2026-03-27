@@ -14,7 +14,8 @@ Actuellement en alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
 ### 📈 Mes Statistiques
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="Deniz Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
