@@ -22,7 +22,6 @@
 | Projet | Description | Stack |
 |---|---|---|
 | 💻 **[Linux System Inventory](https://github.com/Deniz09OK/Linux-System-Inventory-Tool)** | Outil d'inventaire système Linux, collecte auto + rapport exploitable | `Python` `Linux` `Vagrant` |
-| 🔒 **NSA — Network Security** *(confidentiel)* | Passerelle sécurisée segmentant 3 réseaux privés | `OpenBSD` `FreeBSD` |
 | 🗳️ **[Popeye](https://github.com/Deniz09OK/Popeye)** | App web en architecture microservices conteneurisée | `Docker` `Microservices` |
 | 🎨 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Refonte 2026 — storytelling au scroll, multilingue FR/EN/TR | `Nuxt` `Vue` `Tailwind` |
 | 🧠 **[CultureQuiz](https://github.com/Deniz09OK/CultureQuiz)** | App de quiz interactif desktop, scoring & timer | `Python` `Tkinter` |
@@ -34,10 +33,10 @@
 ### 🛠 Tech Stack
 
 **Langages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript] : (https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript] : (https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)
+![Python] : (https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)
+![Java] :(https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
