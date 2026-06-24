@@ -33,10 +33,10 @@
 ### 🛠 Tech Stack
 
 **Langages**
-![JavaScript] : (https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript] : (https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)
-![Python] : (https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)
-![Java] :(https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
