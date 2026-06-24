@@ -32,7 +32,7 @@
 
 ### 🛠 Tech Stack
 
-**Langages** 🟦
+**Langages** 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1d3557?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1d3557?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-1d3557?style=for-the-badge&logo=python&logoColor=3776AB)
@@ -40,7 +40,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-1d3557?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C++](https://img.shields.io/badge/-C++-1d3557?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
-**Frameworks** 🟩
+**Frameworks** 
 ![Vue](https://img.shields.io/badge/-Vue.js-1b4332?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/-Nuxt-1b4332?style=for-the-badge&logo=nuxt.js&logoColor=00DC82)
 ![React](https://img.shields.io/badge/-React-1b4332?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -48,19 +48,19 @@
 ![Symfony](https://img.shields.io/badge/-Symfony-1b4332?style=for-the-badge&logo=symfony&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-1b4332?style=for-the-badge&logo=flask&logoColor=white)
 
-**Systèmes & Réseaux** 🟪
+**Systèmes & Réseaux** 
 ![Linux](https://img.shields.io/badge/-Linux-3c2a4d?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Debian](https://img.shields.io/badge/-Debian-3c2a4d?style=for-the-badge&logo=debian&logoColor=A81D33)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-3c2a4d?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-3c2a4d?style=for-the-badge&logo=freebsd&logoColor=AB2B28)
 
-**Cybersécurité** 🟥
+**Cybersécurité** 
 ![Metasploit](https://img.shields.io/badge/-Metasploit-4d1f1f?style=for-the-badge&logo=metasploit&logoColor=2596CD)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-4d1f1f?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-4d1f1f?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![Nmap](https://img.shields.io/badge/-Nmap-4d1f1f?style=for-the-badge&logo=nmap&logoColor=red)
 
-**DevOps & BDD** 🟧
+**DevOps & BDD** 
 ![Docker](https://img.shields.io/badge/-Docker-4d3319?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-4d3319?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-4d3319?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
