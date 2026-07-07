@@ -69,15 +69,6 @@
 
 ---
 
-### 📈 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deniz09OK&show_icons=true&theme=dark&hide_border=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=dark&hide_border=true" width="42%"/>
-</p>
-
----
-
 ### 📬 Me contacter
 
 <p align="center">
