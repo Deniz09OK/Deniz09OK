@@ -1,5 +1,5 @@
 <h1 align="center">DENIZOK 👋</h1>
-<h3 align="center">🛡️ Cybersécurité & Cloud | 💻 Développement Web</h3>
+<h3 align="center">Cybersécurité & Cloud | Développement Web</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Deniz09OK&style=flat-square&color=blue" alt="profile views"/>
@@ -9,24 +9,24 @@
 
 ### 👨‍💻 À propos de moi
 
-🎓 **MSc Cybersécurité & Cloud @ Epitech Nancy** (Promo 2027)
-🛡️ **Alternance chez Qualitest** — Assistant Informatique (BDD, reporting, automatisation PowerShell/PHP/Bash)
-🔭 Focus : sécurité offensive & défensive, déploiement et sécurisation d'environnements cloud, maintenance système/réseau
-🌐 Trilingue 🇫🇷 FR · 🇹🇷 TR · 🇬🇧 EN (TOEIC 790/990)
-⚡ **Portfolio :** [deniz09ok.github.io/Portfolio](https://deniz09ok.github.io/Portfolio/) — design éditorial cybersécurité × culture sportive, multilingue, dark/light
+**MSc Cybersécurité & Cloud @ Epitech Nancy** (Promo 2027)
+**Alternance chez Qualitest** — Assistant Informatique (BDD, reporting, automatisation PowerShell/PHP/Bash)
+Focus : sécurité offensive & défensive, déploiement et sécurisation d'environnements cloud, maintenance système/réseau
+Trilingue 🇫🇷 FR · 🇹🇷 TR · 🇬🇧 EN (TOEIC 790/990)
+**Portfolio :** [deniz09ok.github.io/Portfolio](https://deniz09ok.github.io/Portfolio/) — design éditorial cybersécurité × culture sportive, multilingue, dark/light
 
 ---
 
-### 🚀 Projets Phares
+### Projets Phares
 
 | Projet | Description | Stack |
 |---|---|---|
-| 💻 **[Linux System Inventory](https://github.com/Deniz09OK/Linux-System-Inventory-Tool)** | Outil d'inventaire système Linux, collecte auto + rapport exploitable | `Python` `Linux` `Vagrant` |
-| 🗳️ **[Popeye](https://github.com/Deniz09OK/Popeye)** | App web en architecture microservices conteneurisée | `Docker` `Microservices` |
-| 🎨 **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Refonte 2026 — storytelling au scroll, multilingue FR/EN/TR | `Nuxt` `Vue` `Tailwind` |
-| 🧠 **[CultureQuiz](https://github.com/Deniz09OK/CultureQuiz)** | App de quiz interactif desktop, scoring & timer | `Python` `Tkinter` |
-| ♟️ **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)** | Morpion avec IA Minimax + élagage alpha-beta, invincible | `Python` `Minimax` |
-| 🎮 **[EpiQuest](https://github.com/Deniz09OK/Projet-Jeu-Java)** | Jeu d'aventure 2D — combat, dialogues, progression (projet équipe) | `Java` `LibGDX` |
+| **[Linux System Inventory](https://github.com/Deniz09OK/Linux-System-Inventory-Tool)** | Outil d'inventaire système Linux, collecte auto + rapport exploitable | `Python` `Linux` `Vagrant` |
+| **[Popeye](https://github.com/Deniz09OK/Popeye)** | App web en architecture microservices conteneurisée | `Docker` `Microservices` |
+| **[Portfolio](https://github.com/Deniz09OK/Portfolio)** | Refonte 2026 — storytelling au scroll, multilingue FR/EN/TR | `Nuxt` `Vue` `Tailwind` |
+| **[CultureQuiz](https://github.com/Deniz09OK/CultureQuiz)** | App de quiz interactif desktop, scoring & timer | `Python` `Tkinter` |
+| **[AI-Morpion](https://github.com/Deniz09OK/AI-Morpion)** | Morpion avec IA Minimax + élagage alpha-beta, invincible | `Python` `Minimax` |
+| **[EpiQuest](https://github.com/Deniz09OK/Projet-Jeu-Java)** | Jeu d'aventure 2D — combat, dialogues, progression (projet équipe) | `Java` `LibGDX` |
 
 ---
 
