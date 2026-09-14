@@ -13,7 +13,7 @@
 **Alternance chez Qualitest** — Assistant Informatique (BDD, reporting, automatisation PowerShell/PHP/Bash)
 Focus : sécurité offensive & défensive, déploiement et sécurisation d'environnements cloud, maintenance système/réseau
 Trilingue 🇫🇷 FR · 🇹🇷 TR · 🇬🇧 EN (TOEIC 790/990)
-**Portfolio :** [Portfolio](https://portfolio-deniz.me/)] — design éditorial cybersécurité × culture sportive, multilingue, dark/light
+**Portfolio :** [Mon portfolio](https://portfolio-deniz.me/) — design éditorial cybersécurité × culture sportive, multilingue, dark/light
 
 ---
 
