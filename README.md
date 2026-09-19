@@ -57,9 +57,11 @@ Alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
 ---
 
-### 📈 Mes statistiques
+### 📈 Langages les plus utilisés
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniz09OK&layout=compact&theme=dark&hide_border=true)](https://github.com/Deniz09OK)
+<img src="assets/languages.svg" alt="Langages les plus utilisés sur mes dépôts publics" width="495" />
+
+<sub>Graphique généré localement à partir de mes dépôts publics — voir <a href="scripts/languages_svg.py">scripts/languages_svg.py</a>.</sub>
 
 ---
 
