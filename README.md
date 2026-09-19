@@ -57,14 +57,6 @@ Alternance chez **Qualitest** en tant qu'Assistant Informatique.
 
 ---
 
-### 📈 Langages les plus utilisés
-
-<img src="assets/languages.svg" alt="Langages les plus utilisés sur mes dépôts publics" width="495" />
-
-<sub>Graphique généré localement à partir de mes dépôts publics — voir <a href="scripts/languages_svg.py">scripts/languages_svg.py</a>.</sub>
-
----
-
 ### 🚀 Projets phares
 
 | Projet | Description | Stack |
