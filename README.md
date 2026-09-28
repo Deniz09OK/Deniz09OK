@@ -19,7 +19,7 @@
 - 🛡️ Cybersécurité et infrastructure : réseaux segmentés, pare-feu, VPN, supervision et centralisation des logs.
 - ⚙️ Automatisation : chez Qualitest, je développe des pipelines de données Python en production pour des clients. J'administre aussi des serveurs Windows et j'automatise des traitements (PowerShell, Bash).
 - 🌱 J'apprends la détection et la réponse à incident (SIEM, MITRE ATT&CK) ainsi que le pentest.
-- 🧪 Entraînement : [TryHackMe](https://tryhackme.com/p/Deniz23Ok), Top 15 %.
+- 🧪 Entraînement : [TryHackMe](https://tryhackme.com/p/Deniz23Ok) (Top 15 %) et [Hack The Box](https://app.hackthebox.com/users/4005432).
 - ⚡ **Portfolio :** [portfolio-deniz.me](https://portfolio-deniz.me), testé automatiquement chaque jour (disponibilité, TLS, scan de sécurité, qualité de code).
 
 ---
@@ -59,6 +59,7 @@
 ![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-05122A?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/-Hack_The_Box-05122A?style=for-the-badge&logo=hackthebox&logoColor=white)
 
 **Systèmes, Cloud & DevOps**
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)
@@ -95,6 +96,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deniz16ok@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-deniz.me)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Deniz23Ok)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/4005432)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Deniz09OK)
 
 *"I love seeing how things work under the hood to better protect them."*
 
@@ -114,9 +117,9 @@
 - 🛡️ Cybersecurity and infrastructure: segmented networks, firewalls, VPNs, monitoring and centralized logging.
 - ⚙️ Automation: at Qualitest I build production Python data pipelines for clients, administer Windows servers and automate tasks with PowerShell and Bash.
 - 🌱 Currently learning threat detection and incident response (SIEM, MITRE ATT&CK), plus penetration testing.
-- 🧪 Practicing on [TryHackMe](https://tryhackme.com/p/Deniz23Ok), where I'm in the Top 15%.
+- 🧪 Practicing on [TryHackMe](https://tryhackme.com/p/Deniz23Ok) (Top 15%) and [Hack The Box](https://app.hackthebox.com/users/4005432).
 - ⚡ **Portfolio:** [portfolio-deniz.me](https://portfolio-deniz.me), automatically tested every day (uptime, TLS, security scan, code quality).
 
 The French section above has the full project list and tech stack.
 
-📬 [LinkedIn](https://www.linkedin.com/in/deniz-ok) · [Email](mailto:deniz16ok@gmail.com) · [Portfolio](https://portfolio-deniz.me)
+📬 [LinkedIn](https://www.linkedin.com/in/deniz-ok) · [Email](mailto:deniz16ok@gmail.com) · [Portfolio](https://portfolio-deniz.me) · [GitLab](https://gitlab.com/Deniz09OK) · [TryHackMe](https://tryhackme.com/p/Deniz23Ok) · [Hack The Box](https://app.hackthebox.com/users/4005432)
