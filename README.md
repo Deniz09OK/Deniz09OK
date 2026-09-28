@@ -3,9 +3,9 @@
 # Salut, moi c'est Deniz ! 👋
 
 🎓 **Étudiant en MSc Cybersécurité & Cloud à Epitech Nancy** (jusqu'en septembre 2027)
-💼 Assistant informatique en alternance chez **Qualitest** depuis février 2025
+💼 1 an et demi d'alternance chez **Qualitest** (assistant informatique, depuis 02/2025)
 
-**🎯 Je recherche une nouvelle alternance dès maintenant et jusqu'en septembre 2027, à Nancy / Metz, dans le Grand Est ou en hybride.**
+**🎯 Je recherche une alternance (apprentissage ou professionnalisation) dès maintenant et jusqu'en septembre 2027, à Nancy, Metz, Strasbourg, Luxembourg ou en hybride.**
 **Ce que je vise en priorité : la cybersécurité (SOC, Blue Team, sécurité des SI) et l'infrastructure (administration systèmes et réseaux, cloud, DevOps).**
 
 <sub>🇫🇷 Français ci-dessous · 🇬🇧 <a href="#-english">English version below</a></sub>
@@ -17,7 +17,7 @@
 ### 👨‍💻 À propos
 
 - 🛡️ Cybersécurité et infrastructure : réseaux segmentés, pare-feu, VPN, supervision et centralisation des logs.
-- ⚙️ Automatisation : chez Qualitest, je développe des pipelines de données Python en production pour des clients. J'administre aussi des serveurs Windows et j'automatise des traitements (PowerShell, Bash).
+- ⚙️ Données & automatisation : chez Qualitest, traitement de fichiers de contacts CSV, questionnaires Sphinx IQ3, pipelines de données Python pour des clients et scripts d'automatisation (PowerShell, Bash).
 - 🌱 J'apprends la détection et la réponse à incident (SIEM, MITRE ATT&CK) ainsi que le pentest.
 - 🧪 Entraînement : [TryHackMe](https://tryhackme.com/p/Deniz23Ok) (Top 15 %) et [Hack The Box](https://app.hackthebox.com/users/4005432).
 - ⚡ **Portfolio :** [portfolio-deniz.me](https://portfolio-deniz.me), testé automatiquement chaque jour (disponibilité, TLS, scan de sécurité, qualité de code).
@@ -97,6 +97,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://portfolio-deniz.me)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Deniz23Ok)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/users/4005432)
+[![CV](https://img.shields.io/badge/CV_PDF-608ABF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-deniz.me/cv-deniz-ok-fr.pdf)
 [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Deniz09OK)
 
 *"I love seeing how things work under the hood to better protect them."*
@@ -109,17 +110,17 @@
 ## 🇬🇧 English
 
 🎓 **MSc Cybersecurity & Cloud student at Epitech Nancy** (until September 2027)
-💼 Work-study IT Assistant at **Qualitest** since February 2025
+💼 1.5 years of work-study at **Qualitest** (IT assistant, since 02/2025)
 
-**🎯 Looking for a new work-study position (alternance) starting now and running until September 2027, in Nancy / Metz, the Grand Est region or hybrid.**
+**🎯 Looking for a work-study position (apprenticeship, "alternance") starting now and running until September 2027, in Nancy, Metz, Strasbourg, Luxembourg or hybrid.**
 **My priorities are cybersecurity (SOC, Blue Team, information security) and infrastructure (systems & network administration, cloud, DevOps).**
 
 - 🛡️ Cybersecurity and infrastructure: segmented networks, firewalls, VPNs, monitoring and centralized logging.
-- ⚙️ Automation: at Qualitest I build production Python data pipelines for clients, administer Windows servers and automate tasks with PowerShell and Bash.
+- ⚙️ Data & automation: at Qualitest I handle CSV contact files, build Sphinx IQ3 surveys, Python data pipelines for clients and automation scripts (PowerShell, Bash).
 - 🌱 Currently learning threat detection and incident response (SIEM, MITRE ATT&CK), plus penetration testing.
 - 🧪 Practicing on [TryHackMe](https://tryhackme.com/p/Deniz23Ok) (Top 15%) and [Hack The Box](https://app.hackthebox.com/users/4005432).
 - ⚡ **Portfolio:** [portfolio-deniz.me](https://portfolio-deniz.me), automatically tested every day (uptime, TLS, security scan, code quality).
 
 The French section above has the full project list and tech stack.
 
-📬 [LinkedIn](https://www.linkedin.com/in/deniz-ok) · [Email](mailto:deniz16ok@gmail.com) · [Portfolio](https://portfolio-deniz.me) · [GitLab](https://gitlab.com/Deniz09OK) · [TryHackMe](https://tryhackme.com/p/Deniz23Ok) · [Hack The Box](https://app.hackthebox.com/users/4005432)
+📬 [LinkedIn](https://www.linkedin.com/in/deniz-ok) · [Email](mailto:deniz16ok@gmail.com) · [Portfolio](https://portfolio-deniz.me) · [GitLab](https://gitlab.com/Deniz09OK) · [TryHackMe](https://tryhackme.com/p/Deniz23Ok) · [Hack The Box](https://app.hackthebox.com/users/4005432) · [Resume (PDF)](https://portfolio-deniz.me/cv-deniz-ok-en.pdf)
